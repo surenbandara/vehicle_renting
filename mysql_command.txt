@@ -1,0 +1,7 @@
+INSERT INTO vehical (name, imageurl,seat,status,renter,price,timeperiod) VALUES ('Bick' , 'https://drive.google.com/uc?export=download&id=1tR8wVYPRnKzynkRfMTWjwx6iU-6Po1P2', 2 , 0 ,"No" , 100, "No");
+INSERT INTO vehical (name, imageurl,seat,status,renter,price,timeperiod) VALUES ('Car' , 'https://drive.google.com/uc?export=download&id=1UAnuBAgavnNL3ZInWPMUTFSyQ36Z5y3r', 4 , 0 ,"No" , 250, "No");
+INSERT INTO vehical (name, imageurl,seat,status,renter,price,timeperiod) VALUES ('Van' , 'https://drive.google.com/uc?export=download&id=1YyRB3lDEzelOeUIFw408Yt4vd28jg5YT', 10 , 0 ,"No" , 150, "No");
+INSERT INTO vehical (name, imageurl,seat,status,renter,price,timeperiod) VALUES ('Bus' , 'https://drive.google.com/uc?export=download&id=1Flg1z6GJxnbkeoIltAtSIx5JYj1XCQu-', 50 , 0 ,"No" , 300, "No");
+INSERT INTO vehical (name, imageurl,seat,status,renter,price,timeperiod) VALUES ('Helicopter' , 'https://drive.google.com/uc?export=download&id=1UjNy58Yfm5DgDKMeG1ezWM-iGXoKy2dn', 3 , 0 ,"No" , 1000, "No");
+INSERT INTO vehical (name, imageurl,seat,status,renter,price,timeperiod) VALUES ('Yatch' , 'https://drive.google.com/uc?export=download&id=15Wh1gAOw_2Up7ajaI0IoKsKEJ6p5Ar-E', 70 , 0 ,"No" , 100000, "No");
+INSERT INTO vehical (name, imageurl,seat,status,renter,price,timeperiod) VALUES ('Boat' , 'https://drive.google.com/uc?export=download&id=1dxy-McWn2esI6iiL3zV_f3tADtwanmdJ', 6 , 0 ,"No" , 10000, "No");

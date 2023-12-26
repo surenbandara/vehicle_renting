@@ -1,0 +1,5 @@
+<resources>
+    <style name="DarkProgressBarStyle" parent="android:Widget.ProgressBar">
+        <item name="android:progressDrawable">@drawable/progress_bg</item>
+    </style>
+</resources>
